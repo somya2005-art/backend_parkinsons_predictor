@@ -1,0 +1,9 @@
+RoomID,RoomName,Building,section,Capacity,HasProjector,HasLab
+1,104,2AB,A,60,Yes,No
+2,127,2AB,B,50,Yes,No
+3,004,2AB,G,50,Yes,No
+4,Lab Room No. 213,2AB,A,40,Yes,Yes
+5,A1 Room No. 003,2AB,A1,40,Yes,Yes
+6,A2 Room No. 103,2AB,A2,40,Yes,Yes
+7,127,2AB,B,60,Yes,No
+

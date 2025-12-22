@@ -1,0 +1,51 @@
+Section,Day,StartTime,EndTime,CourseCode,CourseName,course_type,Room,FacultyName
+A,Monday,1:10,2:00,DSE3120,Deep Learning,Flexi Core-3,104,Mr. Deevesh Chaudhary
+A,Monday,2:00,2:50,DSE3102,Operating Systems,Core,104,Ms. Meenakshi Gaur
+A,Monday,2:50,3:30,DSE3102,Operating Systems,Core,104,Ms. Meenakshi Gaur
+A,Monday,3:40,4:30,DSE3150,Theory of Computation,Program Elective-3,104,Dr. Malvinder Singh Bali
+A,Tuesday,1:10,2:00,DSE3140,Computer Vision,Program Elective-2,104,Ms. Shatabdi Basu
+A,Tuesday,2:00,2:50,DSE3120,Deep Learning,Flexi Core-3,104,Mr. Deevesh Chaudhary
+A,Tuesday,2:50,3:40,DSE3101,Design and Analysis of Algorithms,Core,104,Dr. Ginika Mahajan
+A,Tuesday,3:40,4:30,DSE3101,Design and Analysis of Algorithms,Core,104,Dr. Ginika Mahajan
+A,Tuesday,4:30,5:20,DSE3150,Theory of Computation,Program Elective-3,104,Dr. Malvinder Singh Bali
+A,Wednesday,1:10,2:00,DSE3150,Theory of Computation,Program Elective-3,104,Dr. Malvinder Singh Bali 
+A,Wednesday,2:00,2:50,DSE3140,Computer Vision,Program Elective-2,104,Ms. Shatabdi Basu
+A,Wednesday,2:50,3:40,DSE3120,Deep Learning,Flexi Core-3,104,Mr. Deevesh Chaudhary
+A1,Thursday,1:10,2:00,DSE3101,Design and Analysis of Algorithms,Core,D1-003,Dr. Rekha Chaturvedi
+A1,Thursday,2:00,2:50,DSE3101,Design and Analysis of Algorithms,Core,D1-003,Dr. Rekha Chaturvedi
+A2,Thursday,1:10,2:00,DSE3101,Design and Analysis of Algorithms,Core,D2-103,Dr. Shitanshu Jain
+A2,Thursday,2:00,2:50,DSE3101,Design and Analysis of Algorithms,Core,D2-103,Dr. Shitanshu Jain
+A,Thursday,2:50,3:40,DSE3140,Computer Vision,Program Elective-2,104,Ms. Shatabdi Basu
+A,Thursday,3:40,4:30,DSE3102,Operating Systems,Core,104,Ms. Meenakshi Gaur
+A,Thursday,4:30,5:20,DSE3102,Operating Systems,Core,104,Ms. Meenakshi Gaur
+A,Friday,1:10,2:00,DSE3131,Operating Systems Lab,Lab,213,Dr. Abhishek Dwivedi/Dr. Aishwarya Mishra
+A,Friday,2:00,2:50,DSE3131,Operating Systems Lab,Lab,213,Dr. Abhishek Dwivedi/Dr. Aishwarya Mishra
+A,Friday,2:50,3:40,DSE3101,Design and Analysis of Algorithms,Core,104,Dr. Ginika Mahajan
+A,Friday,3:40,4:30,DSE3101,Design and Analysis of Algorithms,Core,104,Dr. Ginika Mahajan
+A,Friday,4:30,5:20,DSE3120,Deep Learning,Flexi Core-3,104,Mr. Deevesh Chaudhary
+B,Monday,1:10,2:00,DSE3120,Deep Learning,Flexi Core-3,127,Dr. Srikanta Pradhan
+B,Monday,2:00,2:50,DSE3101,Design and Analysis of Algorithms,Core,127,Dr.Chirag Joshi
+B,Monday,2:50,3:40,DSE3101,Design and Analysis of Algorithms,Core,127,Dr.Chirag Joshi
+B,Monday,3:40,4:30,DSE3150,Theory of Computation,Program Elective-3,127,Mr. Ram Kumar Yadav
+B,Monday,4:30,5:20,DSE3131,Operating Systems,Core,127,Dr. Abhishek Dwivedi
+B,Tuesday,1:10,2:00,DSE3140,Computer Vision,Program Elective-2,127,Dr. Neha V Sharma
+B,Tuesday,2:00,2:50,DSE3120,Deep Learning,Flexi Core-3,127,Dr. Srikanta Pradhan
+B1,Tuesday,2:50,3:40,DSE3101,Design and Analysis of Algorithms,Core,E1-003,Dr. Abhishek Dwivedi
+B1,Tuesday,3:40,4:30,DSE3101,Design and Analysis of Algorithms,Core,E1-003,Dr. Abhishek Dwivedi
+B2,Tuesday,1:10,2:00,DSE3101,Design and Analysis of Algorithms,Core,E2-103,Dr.Chirag Joshi
+B2,Tuesday,2:00,2:50,DSE3101,Design and Analysis of Algorithms,Core,E2-103,Dr.Chirag Joshi
+B,Tuesday,3:30,4:30,DSE3150,Theory of Computation,Program Elective-3,127,Mr. Ram Kumar Yadav
+B,Wednesday,1:10,2:00,DSE3150,Theory of Computation,Program Elective-3,127,Mr. Ram Kumar Yadav
+B,Wednesday,2:00,2:50,DSE3140,Computer Vision,Program Elective-2,127,Dr. Neha V Sharma
+B,Wednesday,2:50,3:40,DSE3120,Deep Learning,Flexi Core-3,127,Dr. Srikanta Pradhan
+B,Wednesday,3:40,4:30,DSE3131,Operating Systems,Core,127,Dr. Abhishek Dwivedi
+B,Wednesday,4:30,5:20,DSE3131,Operating Systems,Core,127,Dr. Abhishek Dwivedi
+B,Thursday,1:10,2:00,DSE3131,Operating Systems Lab,Core,213,Dr. Abhishek Dwivedi/Dr. Aishwarya Mishra
+B,Thursday,2:00,2:50,DSE3131,Operating Systems Lab,Core,213,Dr. Abhishek Dwivedi/Dr. Aishwarya Mishra
+B,Thursday,2:50,3:40,DSE3140,Computer Vision,Program Elective-2,127,Dr. Neha V Sharma
+B,Thursday,3:40,4:30,DSE3101,Design and Analysis of Algorithms,Core,127,Dr.Chirag Joshi
+B,Friday,1:10,2:00,free,free,free,free,free
+B,Friday,2:00,2:50,DSE3101,Design and Analysis of Algorithms,Core,127,Dr.Chirag Joshi
+B,Friday,2:50,3:40,DSE3131,Operating Systems,Core,127,Dr. Abhishek Dwivedi
+B,Friday,3:40,4:30,free,free,free,free,free
+B,Friday,4:30,5:20,DSE3120,Deep Learning,Flexi Core-3,127,Dr. Srikanta Pradhan

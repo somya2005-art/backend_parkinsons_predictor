@@ -1,0 +1,10 @@
+CourseID,CourseCode,CourseName,Section,Credits,Students,Faculty,HasLab,Type
+1,DSE3101,Design and Analysis of Algorithms,A,4,50,Dr. Gitika Mahajan,No,Core
+2,DSE3120,Deep Learning,A,3,50,Mr. Deevesh Chaudhary,No,Flexi Core-3
+3,DSE3140,Computer Vision,A,3,50,Ms. Shatabdi Bhar,No,Program Elective-2
+4,DSE3150,Theory of Computation,A,3,50,Dr. Maninder Singh,No,Program Elective-3
+5,DSE3131,Operating Systems Lab,A1,1,50,Dr. Rekha Chaturvedi-A1 ,Yes,Core
+6,DSE3131,Operating Systems Lab,A2,1,50, Mr. Gauransh Kalla-A2,Yes,Core
+7,DSE3130,Data Analytics and Application Lab,A1,1,50,Dr. Pooja Gupta ,No, core
+8,DSE3130,Data Analytics and Application Lab,A2,1,50,Dr. Aishwarya Mishra,No, core
+

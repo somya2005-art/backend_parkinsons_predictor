@@ -1,0 +1,4 @@
+Algorithm,Fitness Score,Time (sec),Hard Violations
+GA Only,0,10.140263080596924,0
+PSO Only,0,3.755960464477539,0
+Hybrid GA-PSO,0,10.800920963287354,0
